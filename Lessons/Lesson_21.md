@@ -59,7 +59,3 @@ When talking about "my" or "your" hobby, remember to add the possessive articles
 
 - **նախասիրությունս** (my hobby) — suffix **-ս**.
 - **նախասիրությունդ** (your hobby) — suffix **-դ**.
-
----
-
-Would you like me to create a **list of specific hobby verbs** (like "to dance," "to cook," or "to play guitar") so you can practice forming sentences with these rules?

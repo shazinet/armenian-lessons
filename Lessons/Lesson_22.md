@@ -71,7 +71,3 @@ To state your profession, you use the noun + the auxiliary verb **եմ** (am), *
 To say _where_ you work, you often add **-ում** to the place:
 
 - **հիվանդանոց** (hospital) → **հիվանդանոցում** (in the hospital).
-
----
-
-Would you like me to provide a **list of non-medical professions** (like teacher, engineer, or lawyer) to expand your workplace vocabulary?
