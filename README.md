@@ -24,3 +24,5 @@ A collection of 20 Armenian lessons in Markdown format.
 18. [Lesson 18](Lessons/Lesson_18.md)
 19. [Lesson 19](Lessons/Lesson_19.md)
 20. [Lesson 20](Lessons/Lesson_20.md)
+21. [Lesson 21](Lessons/Lesson_21.md)
+22. [Lesson 22](Lessons/Lesson_22.md)
